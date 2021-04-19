@@ -22,7 +22,7 @@
         "modal-vue": "0.0.3",
         "popper.js": "^1.14.3",
         "vodal": "^2.3.3",
-        "vue": "^2.5.16",
+        "vue": "^2.6.12",
         "vue-chartjs": "^3.3.1",
         "vue-picture-input": "^2.1.5",
         "vue-router": "^3.0.1",
